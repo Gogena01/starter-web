@@ -16,7 +16,7 @@ This is a simple web projects, deployment can on any web server or even local fi
 
 ## How to contribute
 
-You can write some review about the course and hit the like button!
+You can write some review about the course and hit the like button!Please fork this  repo and then issue Pull Requests 
 
 ##Copyright
 
