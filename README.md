@@ -6,5 +6,6 @@
 
 ## Purposes 
 
+## Deployment
 
-## How to contributeS
+## How to contribute
