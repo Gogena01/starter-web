@@ -1,6 +1,7 @@
 # Starter Web Project 
 
-This is a simple website project for showing how to use Git and Github! Adding a line for rebasing examplse
+This is a simple website project for showing how to use Git and Github! Adding a line for rebasing examplse,
+more changes from myFeature branch
 
 ## Introduction
 
