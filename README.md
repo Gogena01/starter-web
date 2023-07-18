@@ -21,4 +21,4 @@ You can write some review about the course and hit the like button!Please fork t
 
 ##Copyright
 
-2014 Git.Training
+2014 Git.Training.All rights reserved.
